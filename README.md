@@ -6,9 +6,9 @@ This is a simple 404 page design.
 
 find me on:-
 
-facebook :- https://web.facebook.com/simanto.saikat.1/
-twitter: https://twitter.com/Simantosaikat01
-instagram :- https://www.instagram.com/simanto.saikat01/
-github :- https://github.com/SimantoSaikat
-codepen:- https://codepen.io/simantosaikat
-linkdin: https://www.linkedin.com/in/simanto-saikat-7145a01b3/
+facebook :- https://web.facebook.com/TahirAhmad01/
+twitter:- https://twitter.com/tahir_ahmad01
+instagram :- https://www.instagram.com/tahir_ahmad01/
+github :- https://github.com/TahirAhmad01/
+codepen:- https://codepen.io/TahirAhmad/
+linkdin:- https://www.linkedin.com/in/tahir-ahmad-7145a01b3/
